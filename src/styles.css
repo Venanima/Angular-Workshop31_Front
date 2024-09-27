@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-size: 15pt;
+  margin:0;
+}
+
+a, h2, p{
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+
+.map{
+  position: absolute;
+  background-color: #D9D9D9;
+  height: 50vh;
+  width:50vh;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.map div{
+  border: solid;
+  box-sizing: border-box;
+  font-size: 2.5vh;
+}
+
+.map a{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}

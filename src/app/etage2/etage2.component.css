@@ -1,0 +1,13 @@
+.S201{ height: 25vh; width: 20vh;}
+.S202{ height: 25vh; width: 20vh; position: absolute; top: 0; left: 20vh;}
+.S203{ height: 17vh; width: 17vh; position: absolute; top: 33vh;}
+.S204{ height: 17vh; width: 17vh; position: absolute; top: 33vh; left: 17vh;}
+.S205{ height: 17vh; width: 16vh; position: absolute; top: 33vh; left: 34vh;}
+
+.vide{
+  position: absolute;
+  height: 20vh;
+  width:10vh;
+  top: 0;
+  left: 40vh;
+}

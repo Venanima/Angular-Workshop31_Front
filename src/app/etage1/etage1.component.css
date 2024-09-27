@@ -1,0 +1,13 @@
+.S101{ height: 25vh; width: 20vh;}
+.S102{ height: 25vh; width: 20vh; position: absolute; top: 0; left: 20vh;}
+.S103{ height: 17vh; width: 17vh; position: absolute; top: 33vh;}
+.S104{ height: 17vh; width: 17vh; position: absolute; top: 33vh; left: 17vh;}
+.S105{ height: 17vh; width: 16vh; position: absolute; top: 33vh; left: 34vh;}
+
+.vide{
+  position: absolute;
+  height: 20vh;
+  width:10vh;
+  top: 0;
+  left: 40vh;
+}

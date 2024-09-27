@@ -1,0 +1,19 @@
+.info{
+  background-color: #FAD053;
+  height: 21vh;
+}
+
+h2{
+  font-size: 3vh;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+p{
+  font-size: 2vh;
+}
+
+hr{
+  border-color: black;
+}

@@ -1,0 +1,19 @@
+.amphi{
+  height:30vh;
+  width:40vh;
+}
+
+.admin{
+  height: 20vh;
+  width:30vh;
+}
+
+.vide{
+  position: absolute;
+  height: 20vh;
+  width:10vh;
+  top: 0;
+  left: 40vh;
+}
+
+
